@@ -115,13 +115,13 @@ html,body{
 }
 
 /* Individual box positions (stacked with spacing) */
-#box1 { background-image: url(paris.jpg);        top: 20; }
-#box2 { background-image: url(london.jpg);       top: 120px; }
-#box3 { background-image: url(Switzerland.jpg);  top: 240px; }
-#box4 { background-image: url(Maldives.jpg);     top: 360px; }
-#box5 { background-image: url(Indonesia.jpg);    top: 480px; }
-#box6 { background-image: url(Portugal.jpg);        top: 600px; }
-#box7 { background-image: url(istanbul.jpg);       top: 720px; }
-#box8 { background-image: url(Morocco.jpg);  top: 840px; }
-#box9 { background-image: url(dubai.jpg);     top: 960px; }
-#box10 { background-image: url(Germany.jpg);    top: 1080px; }
+#box1 { background-image: url(paris.webp);        top: 20; }
+#box2 { background-image: url(london.webp);       top: 120px; }
+#box3 { background-image: url(Switzerland.webp);  top: 240px; }
+#box4 { background-image: url(Maldives.webp);     top: 360px; }
+#box5 { background-image: url(Indonesia.webp);    top: 480px; }
+#box6 { background-image: url(Portugal.webp);     top: 600px; }
+#box7 { background-image: url(istanbul.webp);     top: 720px; }
+#box8 { background-image: url(Morocco.webp);      top: 840px; }
+#box9 { background-image: url(dubai.webp);        top: 960px; }
+#box10 { background-image: url(Germany.webp);     top: 1080px; }
